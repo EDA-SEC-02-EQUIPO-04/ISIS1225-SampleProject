@@ -1,6 +1,4 @@
-# Reto #2
-
-### Sample project
+# Sample project
 
 Realizado por el equipo 4 de la sección 2 del curso 
 Estructuras de Datos y Algoritmos de la Universidad de los Andes.
